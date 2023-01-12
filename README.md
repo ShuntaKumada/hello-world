@@ -1,5 +1,10 @@
+# hello-world
 ## 日付
-- 2022/1/12
-## 自己紹介リスト
-- [target1](https://github.com/ShuntaKumada/hello-world/blob/main/intro.md)
-- [target2](https://github.com/Ssoya1105/hello-world/blob/main/README.md)
+2022/12/22
+## 講義名
+ソフトウェア工学
+## 自己紹介
+- 熊田隼汰
+- 情報工学科
+- WurtS
+
