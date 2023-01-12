@@ -1,10 +1,7 @@
-# hello-world
+# ソフトウェア工学演習
 ## 日付
-2022/12/22
-## 講義名
-ソフトウェア工学
-## 自己紹介
-- 熊田隼汰
-- 情報工学科
-- WurtS
+2023/1/12
 
+## 自己紹介リスト
+- [岸本龍弥](https://github.com/ShuntaKumada/hello-world/blob/main/intro2.md)
+- [熊田隼汰](https://github.com/ShuntaKumada/hello-world/blob/main/intro.md)
