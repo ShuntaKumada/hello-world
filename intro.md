@@ -1,10 +1,7 @@
 # hello-world
-## 日付
-2022/12/22
-## 講義名
-ソフトウェア工学
-## 自己紹介
-- 熊田隼汰
-- 情報工学科
-- WurtS
+hello world repository
+
+# about me
+I like sushida.
+I like WurtS.
 
